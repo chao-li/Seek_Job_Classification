@@ -1,0 +1,706 @@
+,variable_RFECV,support,ranking,variable_skb,score
+0,zealand,True,1,experi,557.1299330077925
+1,intern extern,True,1,manag,414.07353861592884
+2,intern,True,1,abil,409.56710551698876
+3,interact,True,1,strong,318.87762042160534
+4,integr,True,1,excel,313.232255765053
+5,insur,True,1,skill,311.36824729346733
+6,innov,True,1,busi,279.4345937035277
+7,thi opportun,True,1,report,259.0664757077689
+8,infrastructur,True,1,knowledg,226.02194262329698
+9,inform technolog,True,1,written,201.65354880750687
+10,inform manag,True,1,develop,193.8818084531007
+11,years experi,True,1,stakehold,182.3021220235132
+12,influenc,True,1,commun,181.94829715957732
+13,industri,True,1,commun skill,176.15740088901146
+14,interpret,True,1,machin learn,170.3117150911315
+15,individu,True,1,ensur,165.91672204867564
+16,increas,True,1,provid,161.49071578573466
+17,inclus,True,1,process,157.45081869986754
+18,include,True,1,analysi,148.45485970732065
+19,salari,True,1,relationship,147.85907836142198
+20,thi posit,True,1,includ,147.6547402582457
+21,thi role,True,1,perform,142.4989912487061
+22,thing,True,1,plan,140.42997874289068
+23,idea,True,1,machin,140.30717310630868
+24,http,True,1,verbal,138.98849947456716
+25,hr,True,1,maintain,136.5369771198253
+26,home,True,1,skill abil,135.1119502546135
+27,highli regard,True,1,understand,134.58670091485743
+28,highli,True,1,al,133.89158364167955
+29,independ,True,1,work,132.01049200491917
+30,high level,True,1,support,130.4013247895374
+31,invest,True,1,servic,127.46320568037223
+32,issu,True,1,identifi,126.94070008997518
+33,machin,True,1,demonstr,117.86946020600459
+34,love,True,1,requir,112.99513835438762
+35,look,True,1,team,112.89546406585767
+36,long,True,1,strategi,112.00304785243063
+37,locat,True,1,extern,106.6384220317886
+38,live,True,1,environ,104.89756754134432
+39,link,True,1,project,104.29149291554948
+40,line,True,1,attent,102.52697980176437
+41,limit,True,1,high,101.9815147494993
+42,lifecycl,True,1,experi work,100.26306016394516
+43,life,True,1,implement,98.78278911774797
+44,tertiari,True,1,market,98.74169068080094
+45,level,True,1,problem solv,98.66714812179406
+46,investig,True,1,tertiari qualif,97.65238212003631
+47,letter,True,1,review,95.63198809333448
+48,learn,True,1,effect,93.92276248220342
+49,tertiari qualif,True,1,deliveri,91.4053265286046
+50,role pleas,True,1,present,91.17700995593725
+51,test,True,1,project manag,89.86216194587577
+52,knowledg,True,1,activ,89.79966565228371
+53,know,True,1,new,87.7098559204722
+54,key,True,1,high level,87.4099835424483
+55,journey,True,1,tertiari,86.70348020337404
+56,join team,True,1,analys,85.43761450695551
+57,join,True,1,execut,84.89427530630397
+58,student,True,1,manag skill,84.65475371762926
+59,structur,True,1,integr,84.4898160232198
+60,java,True,1,proven,83.07029620358784
+61,leav,True,1,custom,81.48062453298303
+62,machin learn,True,1,abil work,80.04264709138273
+63,high,True,1,function,79.82578130858758
+64,hear,True,1,qualif,79.04930225376219
+65,sector,True,1,intern,79.01057528088256
+66,extract,True,1,assist,77.29897445205789
+67,extern,True,1,years,76.3089772180681
+68,extens,True,1,similar,73.33283825931977
+69,exposur,True,1,recommend,73.2519339773983
+70,expertis,True,1,written verbal,73.03201024327784
+71,expert,True,1,strateg,72.48640355473579
+72,experience,True,1,field_Information & Communication Technology,71.59025591141072
+73,travel,True,1,years experi,71.03890934029117
+74,experi work,True,1,account,69.34479808822638
+75,experi,True,1,intern extern,68.32885889673916
+76,expect,True,1,influenc,67.99049393743628
+77,expand,True,1,target,67.82178984890574
+78,facilit,True,1,al skill,67.77454829955259
+79,exist,True,1,relev,67.51973042758735
+80,success candid,True,1,sql,67.43873936629437
+81,excel commun,True,1,interpret,67.4213339662948
+82,excel,True,1,field_Science & Technology,67.113984291099
+83,everi,True,1,qualiti,66.89368798671777
+84,evalu,True,1,demonstr experi,64.87811923743013
+85,etl,True,1,deliv,64.19937792700698
+86,establish,True,1,document,63.61537095150693
+87,essenti,True,1,budget,63.37386519944978
+88,environ,True,1,design,62.97079493987195
+89,enterpris,True,1,level,62.5268176036743
+90,enjoy,True,1,relat,62.09953461428429
+91,seek,True,1,solut,61.81858820330536
+92,engin,True,1,meet,61.687740280496534
+93,execut,True,1,issu,61.659615525432805
+94,help,True,1,digit,61.46808745419483
+95,transform,True,1,opportun,60.97329582485727
+96,field,True,1,appropri,60.93756518793444
+97,health,True,1,year,60.627614989552825
+98,ha,True,1,locat,59.0656373191898
+99,tim,True,1,oper,58.61923457420899
+100,grow,True,1,drive,57.7086588937942
+101,group,True,1,prepar,57.603523547117334
+102,great,True,1,lead,57.57071299643706
+103,govern,True,1,sale,57.07766892384
+104,googl,True,1,accur,56.94118891353563
+105,good,True,1,field_Accounting,56.48460774577953
+106,goal,True,1,offic,56.33698923299257
+107,global,True,1,base,56.08529034932836
+108,gener,True,1,initi,54.828619114885925
+109,sale,True,1,measur,54.818708582897926
+110,fast,True,1,technic,54.6241108042369
+111,futur,True,1,achiev,54.40886335798698
+112,function,True,1,excel commun,54.155609307246024
+113,fun,True,1,respons,53.971002955613905
+114,framework,True,1,busi requir,53.29761615178789
+115,forward,True,1,trend,53.14246159595491
+116,format,True,1,organis,52.942517323823715
+117,tool,True,1,financi,52.048737719276104
+118,follow,True,1,channel,52.03740455287265
+119,state,True,1,use,52.001495999751796
+120,focu,True,1,busi intellig,51.91493032830776
+121,flexibl,True,1,object,51.81856092379757
+122,strong,True,1,improv,51.535993256678076
+123,financi servic,True,1,multipl,51.45243027438278
+124,train,True,1,contract,51.35642568974493
+125,fund,True,1,specif,51.02740393612376
+126,engag,True,1,result,49.64755668629696
+127,maintain,True,1,product,49.408134228548704
+128,major,True,1,procedur,49.054378935317686
+129,problem,True,1,ongo,48.83939663192668
+130,proactiv,True,1,task,48.290168801200714
+131,principl,True,1,cultur,48.191594984815325
+132,previou experi,True,1,commerci,47.739566509706236
+133,previou,True,1,defin,46.53754313020632
+134,present,True,1,client,45.819110655912816
+135,prepar,True,1,write,45.45522752707155
+136,result,True,1,end,45.255892959535046
+137,predict,True,1,previou,45.19507322168398
+138,resum,True,1,advic,45.13116464007955
+139,power,True,1,compet,44.8308404851514
+140,potenti,True,1,focus,44.46919344797233
+141,possibl,True,1,zealand,42.984449934602516
+142,suitabl,True,1,new zealand,42.984449934602516
+143,posit descript,True,1,administr,42.84118973341348
+144,portfolio,True,1,custom servic,42.6736576013025
+145,polici,True,1,data engin,42.612469466183306
+146,plu,True,1,multi,42.53983485441112
+147,pleas note,True,1,complianc,42.44560463875694
+148,pleas contact,True,1,time,42.393187873819144
+149,pleas click,True,1,leadership,42.02019961948073
+150,retail,True,1,practic,41.741096384329886
+151,pleas,True,1,ms,41.607955210662986
+152,sustain,True,1,field_Marketing & Communications,41.546738021672596
+153,play,True,1,insight,41.53316874745278
+154,platform,True,1,highli,41.394903852912115
+155,succeed,True,1,data,40.79102976264195
+156,pipelin,True,1,suit,40.43830672859064
+157,posit,True,1,follow,40.33930824023508
+158,person,True,1,outcom,39.81081311482186
+159,procedur,True,1,microsoft,39.757439682416944
+160,product,True,1,coordin,39.711704014356435
+161,report,True,1,agenc,39.704656440675166
+162,relev,True,1,year experi,39.696696294709774
+163,relationship,True,1,extens,39.65253989421034
+164,relat,True,1,tool,39.45177264959638
+165,region,True,1,digit market,38.98978214767689
+166,regard,True,1,proactiv,38.46520624002446
+167,recruit,True,1,approach,38.40244226098095
+168,record,True,1,best practic,38.12468696067274
+169,success thi,True,1,think,38.053777519760594
+170,recognis,True,1,previou experi,37.9452649200958
+171,recent,True,1,develop implement,37.898456624930894
+172,real,True,1,chang,37.78159307801793
+173,rate,True,1,desir,37.765259882188495
+174,process,True,1,end end,37.55190536056553
+175,queri,True,1,campaign,37.24349560278177
+176,qualif,True,1,sourc,37.22553631140206
+177,purpos,True,1,queri,37.07123599667967
+178,public,True,1,enhanc,36.58846231807674
+179,respect,True,1,learn,36.45518925485768
+180,respons,True,1,engag,36.16509537715511
+181,properti,True,1,team member,36.137770203605704
+182,promot,True,1,essenti,36.04191583566331
+183,project manag,True,1,busi process,36.02820773882975
+184,project,True,1,prefer,36.01099951662283
+185,success applic,True,1,facilit,35.99620310319349
+186,profil,True,1,member,35.1154317534897
+187,profession servic,True,1,align,35.08587263389279
+188,profession,True,1,brand,35.054543747305054
+189,qualiti,True,1,risk,35.018448918678736
+190,mainten,True,1,tableau,34.588694251010615
+191,sydney,True,1,cost,34.45367182352231
+192,peopl,True,1,month,34.27086401421565
+193,ms,True,1,experi data,33.8959186815415
+194,motiv,True,1,good,33.83500947023237
+195,month contract,True,1,effici,33.532240776362706
+196,month,True,1,creat,33.31110881471534
+197,monitor,True,1,compani,33.292294084231465
+198,model,True,1,driven,33.06824540537136
+199,mobil,True,1,regard,32.81711794633194
+200,mind,True,1,financ,32.295644184413284
+201,million,True,1,key,32.20919136876389
+202,migrat,True,1,direct,31.821962304929603
+203,microsoft,True,1,skill experi,30.928723095996983
+204,methodolog,True,1,insur,30.798913335216014
+205,mentor,True,1,control,30.779279120712474
+206,multi,True,1,data team,30.58891269948113
+207,member,True,1,win,30.570383544176366
+208,submit,True,1,train,30.55103992642624
+209,medic,True,1,continu improv,30.322405503978764
+210,media,True,1,agil,29.62841919556398
+211,measur,True,1,line,29.033697248106527
+212,matter,True,1,track,28.910322165714568
+213,techniqu,True,1,exist,28.668729277875727
+214,market lead,True,1,collabor,28.57490399558435
+215,subject,True,1,employment_type_Contract/Temp,28.41802129765574
+216,map,True,1,employment_type_Full Time,28.359463824701137
+217,mani,True,1,creativ,28.195917773557774
+218,manag skill,True,1,monitor,28.18505676652782
+219,manag,True,1,framework,28.11851641109377
+220,technolog,True,1,structur,27.80590930185512
+221,melbourn,True,1,negoti,27.719191780634016
+222,perform,True,1,degre,27.6941837344222
+223,multipl,True,1,databas,27.443663276073696
+224,natur,True,1,assess,27.23303650674444
+225,passion,True,1,basi,27.1665315992702
+226,partner,True,1,design develop,27.0516227636429
+227,parent,True,1,financi servic,27.051107325383303
+228,packag,True,1,optimis,27.01058819694219
+229,pace,True,1,industri,26.934275487458684
+230,outstand,True,1,abl,26.79206050349327
+231,organis,True,1,live,26.765613796747047
+232,review,True,1,problem,26.45503486731936
+233,order,True,1,advantag,26.422849509997697
+234,optimis,True,1,map,26.40607231416873
+235,task,True,1,profici,25.724716028339923
+236,opportun,True,1,exposur,25.44815928358516
+237,oper,True,1,portfolio,25.353741619732524
+238,nation,True,1,minimum,25.281721231580754
+239,open,True,1,crm,25.259059801832283
+240,onli,True,1,mainten,25.174342175311086
+241,ongo,True,1,predict,25.131609494707384
+242,offic,True,1,flexibl,24.703235736806597
+243,offer,True,1,cross,24.68886677689412
+244,reward,True,1,standard,24.6496142618849
+245,nsw,True,1,evalu,24.604625247885874
+246,note,True,1,cbd,24.363031900888533
+247,team member,True,1,self,24.311172682806035
+248,new zealand,True,1,confid,24.270132960049366
+249,right,True,1,group,24.167159703156248
+250,network,True,1,consum,23.987024724984593
+251,tech,True,1,chang manag,23.918351852122225
+252,need,True,1,employe,23.91121638335933
+253,onlin,True,1,prioriti,23.809800567908198
+254,energi,True,1,methodolog,23.674111577054425
+255,excit,True,1,event,23.489115678180717
+256,end,True,1,user,23.465100267102155
+257,best practic,True,1,media,23.427711423974852
+258,best,True,1,undertak,23.293029275524045
+259,benefit,True,1,salari,23.290502120529865
+260,sourc,True,1,audit,23.214735876800486
+261,becom,True,1,advanc,23.002649030527014
+262,base,True,1,way,22.947631975571056
+263,bas,True,1,highli regard,22.85901302186843
+264,space,True,1,concept,22.698270110396535
+265,background,True,1,outstand,22.655312755474043
+266,azur,True,1,need,22.632499936258597
+267,award,True,1,background,22.562061005511886
+268,aw,True,1,continu,22.452906006134253
+269,someon,True,1,bi,22.448418741224412
+270,avail,True,1,purpos,22.386538969229417
+271,australia,True,1,vendor,22.364794485135718
+272,audit,True,1,ad,22.275067850069696
+273,audienc,True,1,partner,21.976575360919757
+274,au,True,1,audienc,21.88831241956243
+275,attract,True,1,role,21.883708807793724
+276,attent,True,1,enterpris,21.855835133787593
+277,assist,True,1,content,21.853839625208288
+278,asset,True,1,reward,21.67814872995978
+279,aspect,True,1,packag,21.609556841343938
+280,arrang,True,1,particip,21.218875960709465
+281,architectur,True,1,expert,20.893605943085184
+282,appropri,True,1,data data,20.793284452591237
+283,australian,True,1,engin,20.763941638544946
+284,wide,True,1,success,20.750353180508228
+285,bi,True,1,email,20.469810211622466
+286,big data,True,1,retail,20.43106116842379
+287,com,True,1,rate,20.308057481381855
+288,collect,True,1,etl,20.164246762254027
+289,code,True,1,govern,19.88749223839376
+290,skill experi,True,1,field_Sales,19.882366535706026
+291,veri,True,1,platform,19.840833457632964
+292,view,True,1,flexibl work,19.764500584263164
+293,softwar,True,1,test,19.715781248016338
+294,check,True,1,server,19.69708929584758
+295,channel,True,1,investig,19.694177501413225
+296,chang,True,1,complex,19.65781322689371
+297,challeng,True,1,month contract,19.59817367488767
+298,visit,True,1,life,19.249350824240988
+299,way,True,1,program,19.169844291629655
+300,cbd,True,1,sa,19.136136484870367
+301,solut,True,1,return,19.12214802871746
+302,want,True,1,extract,19.079115599939474
+303,capabl,True,1,organ,18.89938040589191
+304,candid,True,1,disciplin,18.83360558032758
+305,campaign,True,1,migrat,18.802744470621327
+306,button,True,1,ani,18.76926850392099
+307,busi requir,True,1,solv,18.645762073205983
+308,busi process,True,1,googl,18.37843345256418
+309,build,True,1,run,18.36582104988775
+310,budget,True,1,2018,18.29741177507394
+311,bring,True,1,web,18.22245014367661
+312,brand,True,1,ideal,18.221947461866613
+313,case,True,1,expertis,18.081641038142006
+314,applic close,True,1,social,18.007059904310278
+315,word,True,1,custom experi,17.990154443311738
+316,appli thi,True,1,independ,17.957757189934807
+317,state_SA,True,1,data analysi,17.82075144141192
+318,state_NSW,True,1,convers,17.807432338028875
+319,state_ACT,True,1,applic,17.667465708061208
+320,field_Science & Technology,True,1,larg,17.490965707372222
+321,field_Sales,True,1,great,17.326564940803454
+322,write,True,1,senior,17.06280205479334
+323,field_Real Estate & Property,True,1,import,16.99866139526198
+324,stakehold,True,1,act,16.980317602326114
+325,field_Marketing & Communications,True,1,produc,16.943520127831352
+326,standard,True,1,dynam,16.877356391347504
+327,field_Legal,True,1,resourc,16.699122943871938
+328,written,True,1,teach,16.644493661271852
+329,staff,True,1,architectur,16.629207396505244
+330,field_Information & Communication Technology,True,1,credit,16.57803926404143
+331,field_Hospitality & Tourism,True,1,field_Education & Training,16.44801122297408
+332,field_Government & Defence,True,1,data manag,16.41079773557148
+333,field_Engineering,True,1,experience,16.39347607808363
+334,field_Education & Training,True,1,student,16.315812546489433
+335,year,True,1,action,16.232962502972793
+336,years,True,1,order,16.203185735491587
+337,field_Call Centre & Customer Service,True,1,record,16.14790961238469
+338,field_Banking & Financial Services,True,1,capabl,16.126440517791973
+339,field_Administration & Office Support,True,1,equival,16.031879688974467
+340,field_Accounting,True,1,motiv,15.965029670005078
+341,employment_type_Full Time,True,1,fantast,15.947836443834333
+342,employment_type_Contract/Temp,True,1,case,15.942583136906132
+343,field_Human Resources & Recruitment,True,1,gener,15.76592312707421
+344,000,True,1,promot,15.622133670288402
+345,02,True,1,academ,15.553586519501138
+346,workforc,True,1,emerg,15.364753914486968
+347,appli,True,1,conduct,15.363733970787836
+348,specialis,True,1,bank,15.34876653945188
+349,analys,True,1,field_Call Centre & Customer Service,15.224839400428264
+350,alongsid,True,1,field_Administration & Office Support,15.002051382240891
+351,allow,True,1,"field_Manufacturing, Transport & Logistics",15.002051382240891
+352,statu,True,1,complet,14.889828405383815
+353,al,True,1,matter,14.864384885738534
+354,aim,True,1,travel,14.847843377179567
+355,sql,True,1,perman,14.805325753535906
+356,agenc,True,1,journey,14.65815312659824
+357,advic,True,1,consist,14.648616071581436
+358,advanc,True,1,countri,14.603820587864151
+359,work close,True,1,data model,14.41323393744007
+360,address,True,1,best,14.364299076396522
+361,addit,True,1,goal,14.351724936615145
+362,activ,True,1,polici,14.178378841615352
+363,action,True,1,corpor,14.172766685431446
+364,act,True,1,divers,14.10702766668835
+365,achiev,True,1,long,14.034037562881908
+366,accur,True,1,work close,13.899887330205319
+367,work environ,True,1,specialist,13.837843298187998
+368,access,True,1,onlin,13.733768767843575
+369,accept,True,1,ux,13.674058972701514
+370,stack,True,1,progress,13.2678312679891
+371,abov,True,1,supplier,13.105095822991785
+372,abl,True,1,univers,12.972979456890208
+373,abil,True,1,master,12.959101410277711
+374,com au,True,1,disabl,12.792802923812197
+375,commerci,True,1,posit,12.766489242317267
+376,resourc,True,1,power,12.666288825690465
+377,skill,True,1,competit,12.636992118424654
+378,deliveri,True,1,world,12.497210806820897
+379,strategi,True,1,experienc,12.497182212687926
+380,degre,True,1,benefit,12.313732725696045
+381,senior,True,1,believ,12.294237351934406
+382,decis,True,1,aim,12.103491096621312
+383,uniqu,True,1,csiro,12.083759910106751
+384,databas,True,1,claim,12.046875434344347
+385,data team,True,1,employ,11.997697436518372
+386,data set,True,1,australia,11.947455554826485
+387,unit,True,1,hr,11.856201677292614
+388,data manag,True,1,build,11.740516289582462
+389,commit,True,1,limit,11.703592215437677
+390,data driven,True,1,mentor,11.685431508702303
+391,data data,True,1,access,11.677488831053104
+392,data analysi,True,1,button,11.502211339390739
+393,user,True,1,orient,11.451121477470236
+394,cv,True,1,school,11.435862517545246
+395,utilis,True,1,growth,11.37497416119253
+396,current,True,1,solid,11.257852538288818
+397,cultur,True,1,appli button,11.23766208631702
+398,cross,True,1,idea,11.223359638280558
+399,crm,True,1,state_ACT,11.145709461939356
+400,critic,True,1,lifecycl,11.034497519703875
+401,ux,True,1,intellig,10.74757730001106
+402,credit,True,1,alongsid,10.713707877970727
+403,deloitt,True,1,autom,10.672966663952035
+404,demonstr experi,True,1,contribut,10.663685551952195
+405,depart,True,1,principl,10.631130602401521
+406,descript,True,1,job,10.610100966733244
+407,encourag,True,1,abov,10.482452532402316
+408,enabl,True,1,connect,10.427036818755406
+409,trend,True,1,site,10.377712747954863
+410,employ,True,1,suitabl,10.216527663742554
+411,emerg,True,1,major,10.203899900583037
+412,embrac,True,1,want,10.160287708100135
+413,email,True,1,nation,10.158900689089524
+414,trust,True,1,"field_Advertising, Arts & Media",10.095846645367413
+415,select,True,1,associ,9.893779859919288
+416,educ,True,1,note,9.834633833341561
+417,edg,True,1,award,9.617739317913381
+418,self,True,1,day,9.536324156429904
+419,valu,True,1,critic,9.527459451346964
+420,drive,True,1,core,9.478624804949371
+421,discuss,True,1,focu,9.412602171348135
+422,disciplin,True,1,aspect,9.409064809835863
+423,disabl,True,1,sound,9.401926403148277
+424,director,True,1,opportun work,9.332108224747492
+425,directli,True,1,valu,9.277740006382581
+426,direct,True,1,variou,9.200167699259325
+427,digit,True,1,deloitt,9.111581452768228
+428,differ,True,1,pace,9.033780639877898
+429,undertak,True,1,work environ,9.022958933282556
+430,develop,True,1,person,8.787147160379352
+431,desir,True,1,equal,8.781744983242707
+432,design develop,True,1,consult,8.68377576620793
+433,understand,True,1,edg,8.62779816988058
+434,servic,True,1,home,8.539327769367826
+435,data engin,True,1,embrac,8.436966252896923
+436,complianc,True,1,click appli,8.40400223861728
+437,signific,True,1,decis,8.29759437071627
+438,share,True,1,model,8.223421256970484
+439,coordin,True,1,nsw,8.186753991305084
+440,core,True,1,leav,8.09159987509109
+441,continu improv,True,1,fast,8.03640457362976
+442,varieti,True,1,azur,7.860319000287959
+443,verbal,True,1,real,7.852530206573978
+444,site,True,1,architect,7.754541191459994
+445,concept,True,1,recognis,7.704618333271909
+446,competit,True,1,establish,7.510378159943064
+447,strateg,True,1,state,7.448729901131413
+448,corpor,True,1,differ,7.335129942234031
+449,countri,True,1,cv,7.256810473596339
+450,conduct,True,1,field_Human Resources & Recruitment,7.224237949583379
+451,compet,True,1,technolog,7.151689296853359
+452,cover letter,True,1,posit descript,7.134787114413594
+453,content,True,1,consid,7.061666349990534
+454,confidenti discuss,True,1,000,7.0579079018744855
+455,contact,True,1,commit,7.053784889964928
+456,consum,True,1,pleas note,6.846751486946506
+457,commun skill,True,1,address,6.7503857537520435
+458,set,True,1,field_Insurance & Superannuation,6.638397198988525
+459,cost,True,1,grow,6.632264708516186
+460,control,True,1,sydney,6.624706633047258
+461,bank,False,2,link,6.6035628538885645
+462,orient,False,3,profession,6.583590583994563
+463,advantag,False,4,term,6.394455008136552
+464,web,False,5,code,6.391708168414491
+465,clinic,False,6,mind,6.386632102196802
+466,list,False,7,uniqu,6.362514795158649
+467,profici,False,8,gain,6.259012185266758
+468,consist,False,9,state_QLD,6.116745639681425
+469,python,False,10,deploy,6.111700821607323
+470,ad,False,11,field_Construction,6.031813361611878
+471,social,False,12,director,5.9947813814569395
+472,equival,False,13,asset,5.946807021794797
+473,track,False,14,field_Banking & Financial Services,5.871483870967739
+474,custom experi,False,15,forecast,5.851667577773694
+475,identifi,False,16,seek,5.844623662594927
+476,divers,False,17,succeed,5.800154210065474
+477,www,False,18,tax,5.731883084679919
+478,connect,False,19,list,5.723682853016026
+479,place,False,20,field_Healthcare & Medical,5.619664875118558
+480,year experi,False,21,career,5.552055948422722
+481,variou,False,22,data driven,5.544746432247478
+482,consult,False,23,non,5.51073081126328
+483,high perform,False,24,individu,5.473410653413025
+484,world,False,25,set,5.362356064664026
+485,associ,False,26,applic close,5.3577346516882836
+486,intellig,False,27,statu,5.323401329360537
+487,busi,False,28,addit,5.295981630309992
+488,ani,False,29,websit,5.285833550376238
+489,compani,False,30,research,5.280120924792419
+490,lead,False,31,rang,5.230055181873256
+491,demonstr,False,32,02,5.135217326064106
+492,secur,False,33,collect,5.099605535614461
+493,outcom,False,34,comput,5.09168386710167
+494,rang,False,35,field_Legal,5.021186440677967
+495,program,False,36,current,4.840982529012404
+496,ensur,False,37,vision,4.805084494075024
+497,equal,False,38,join,4.803836100243881
+498,event,False,39,http,4.800582106550815
+499,particip,False,40,inclus,4.775870689126684
+500,prioriti,False,41,recruit,4.762816335349294
+501,csiro,False,42,inform technolog,4.674397749090111
+502,duti,False,43,balanc,4.633739811553479
+503,involv,False,44,tech,4.528343002599162
+504,design,False,45,utilis,4.324721205270513
+505,come,False,46,respect,4.2736926467641885
+506,assess,False,47,encourag,4.263896033800841
+507,appli button,False,48,fun,4.253543194929139
+508,financ,False,49,space,4.198244364154494
+509,state_QLD,False,50,check,4.178740727585689
+510,state_VIC,False,51,track record,4.131480926150966
+511,solid,False,52,date,4.120082830725571
+512,chang manag,False,53,techniqu,4.11997982228088
+513,solv,False,54,hear,4.09584473137647
+514,produc,False,55,peopl,4.014739430086194
+515,skill abil,False,56,state_NT,4.012698412698413
+516,insight,False,57,"field_Farming, Animals & Conservation",4.012698412698413
+517,abil work,False,58,play,3.9756377025242666
+518,fantast,False,59,accept,3.9379481699859675
+519,excit opportun,False,60,profession servic,3.917722606752816
+520,end end,False,61,directli,3.7299483943171565
+521,digit market,False,62,click,3.714340577142336
+522,"field_Farming, Animals & Conservation",False,63,leverag,3.6654805625703664
+523,convers,False,64,potenti,3.5619243155947733
+524,term,False,65,sustain,3.5562613037495985
+525,basi,False,66,inform manag,3.5289919557345137
+526,day,False,67,subject,3.468746158034327
+527,click,False,68,feel,3.4430000824975515
+528,minimum,False,69,statist,3.4270653652065817
+529,custom servic,False,70,cover letter,3.409435188030761
+530,complet,False,71,au,3.2726073772924544
+531,websit,False,72,medic,3.253876375189305
+532,dynam,False,73,state_SA,3.1696048632218843
+533,team,False,74,excit,3.1669245293742616
+534,ll,False,75,visualis,3.095621169521129
+535,start,False,76,stack,3.0839939910672687
+536,area,False,77,work arrang,3.0664138826983702
+537,specialist,False,78,employment_type_Casual/Vacation,3.0063424947145876
+538,object,False,79,field_Hospitality & Tourism,3.0063424947145876
+539,similar,False,80,field_Retail & Consumer Products,3.0063424947145876
+540,think,False,81,trust,2.9902749744423147
+541,leadership,False,82,properti,2.9787304038026927
+542,larg,False,83,wide,2.9666939870352564
+543,impact,False,84,care,2.963432503717535
+544,field_Healthcare & Medical,False,85,attract,2.8557004392999117
+545,feel,False,86,bas,2.834707526805615
+546,deploy,False,87,recent,2.758350658039489
+547,like,False,88,share,2.7041754782865306
+548,statist,False,89,area,2.686964320274226
+549,confid,False,90,right,2.671751377340618
+550,face,False,91,thi posit,2.665892549009424
+551,suit,False,92,tim,2.565618902262324
+552,market,False,93,offer,2.5605829053540274
+553,largest,False,94,arrang,2.547099739645496
+554,contribut,False,95,octob,2.510024563671625
+555,academ,False,96,pleas appli,2.4561700661719064
+556,complex,False,97,descript,2.4304338343622582
+557,pleas appli,False,98,contact,2.4300088198460723
+558,balanc,False,99,futur,2.4216977660972576
+559,javascript,False,100,appli thi,2.4187221339865013
+560,plan,False,101,inform,2.4138228841544938
+561,number,False,102,shape,2.3725163051721503
+562,"field_Advertising, Arts & Media",False,103,global,2.3643783407602847
+563,proven,False,104,com au,2.340928917818513
+564,track record,False,105,www,2.3327900566279562
+565,career,False,106,letter,2.2906634002040316
+566,safeti,False,107,local,2.1815547427110356
+567,consid,False,108,staff,2.1274809255214855
+568,commun,False,109,fund,2.127344296954334
+569,analysi,False,110,sector,2.046747821421197
+570,vision,False,111,health,1.9832159104110512
+571,better,False,112,public,1.9751322525856938
+572,experi data,False,113,ll,1.964373554436594
+573,defin,False,114,firm,1.9387633802347408
+574,believ,False,115,duti,1.9244302495533985
+575,togeth,False,116,data set,1.9181511100845925
+576,meet,False,117,largest,1.8719131574465493
+577,agil,False,118,criteria,1.84521667562787
+578,"field_Mining, Resources & Energy",False,119,send,1.8406972730411009
+579,client,False,120,depart,1.8110706644065748
+580,"field_Manufacturing, Transport & Logistics",False,121,field,1.8050593888838598
+581,scale,False,122,field_Community Services & Development,1.8045685279187818
+582,supplier,False,123,field_Real Estate & Property,1.8045685279187818
+583,small,False,124,centr,1.7941238982540268
+584,effect,False,125,invest,1.755002603346424
+585,focus,False,126,someon,1.7065600269090906
+586,includ,False,127,everi,1.6608352179758705
+587,cover,False,128,format,1.6562632454952253
+588,align,False,129,state_NSW,1.655364110970605
+589,driven,False,130,pipelin,1.6540521565829955
+590,cloud,False,131,infrastructur,1.6352202805808658
+591,server,False,132,mani,1.5536860847826446
+592,thi,False,133,python,1.5529342503912782
+593,contract,False,134,workforc,1.529076548043181
+594,sound like,False,135,big,1.5256715621810055
+595,sound,False,136,unit,1.5144708193935512
+596,progress,False,137,player,1.4424421092672712
+597,new,False,138,workplac,1.380113738145574
+598,busi intellig,False,139,place,1.3648419134601337
+599,talent,False,140,state_VIC,1.3240147051184294
+600,creat,False,141,varieti,1.31807925641187
+601,work,False,142,safeti,1.2575472792667381
+602,prefer,False,143,help,1.2461258630667038
+603,deliv,False,144,melbourn,1.221760003925345
+604,state_TAS,False,145,network,1.19907057508166
+605,enhanc,False,146,resum,1.154535754024261
+606,collabor,False,147,class,1.1416918234954054
+607,research,False,148,confidenti,1.1334500615081464
+608,class,False,149,australian,1.1313764876253931
+609,inform,False,150,view,1.1313465833464842
+610,octob,False,151,big data,1.1106526950803095
+611,local,False,152,responsibilities,1.0927575991608318
+612,famili,False,153,confidenti discuss,1.0580401787409701
+613,support,False,154,mobil,1.0465695080446469
+614,criteria,False,155,aw,0.9946502345162509
+615,confidenti,False,156,visit,0.993458717813608
+616,gain,False,157,veri,0.9810391276459337
+617,leader,False,158,face,0.9589208347409669
+618,sa,False,159,expand,0.9583353808784906
+619,time,False,160,high perform,0.9467320552831037
+620,job,False,161,cover,0.9428616827820095
+621,practic,False,162,whi,0.9361197305035054
+622,state_NT,False,163,small,0.9204512619114861
+623,al skill,False,164,interact,0.9179441196102677
+624,comput,False,165,secur,0.9136580589890996
+625,close,False,166,ha,0.8689009499686448
+626,role,False,167,sound like,0.8555573787609767
+627,negoti,False,168,increas,0.8211649429842126
+628,player,False,169,close,0.8021657664493658
+629,click appli,False,170,togeth,0.7706511683657671
+630,return,False,171,select,0.7541141180954813
+631,master,False,172,field_Consulting & Strategy,0.7364449235842481
+632,care,False,173,possibl,0.7064473393685109
+633,field_Consulting & Strategy,False,174,million,0.6836083256761608
+634,shape,False,175,better,0.6772501981506023
+635,run,False,176,thing,0.6443036179932046
+636,problem solv,False,177,allow,0.6404096593538997
+637,data,False,178,number,0.6317894035321334
+638,field_Retail & Consumer Products,False,179,clinic,0.6178924961323324
+639,success,False,180,make,0.6107857368194646
+640,today,False,181,specialis,0.6040116416266661
+641,provid,False,182,javascript,0.5791021060483965
+642,data model,False,183,famili,0.5760043207075133
+643,send,False,184,appli,0.548743937189056
+644,tax,False,185,profil,0.5266666666666735
+645,non,False,186,avail,0.5207363858303048
+646,forecast,False,187,natur,0.5114669521637859
+647,architect,False,188,cloud,0.49007118455423077
+648,work arrang,False,189,excit opportun,0.43663027057566983
+649,tableau,False,190,educ,0.4285574276806639
+650,organ,False,191,parent,0.41988303376572733
+651,claim,False,192,field_Design & Architecture,0.4017800381436736
+652,employe,False,193,open,0.3992878277345898
+653,centr,False,194,field_Engineering,0.39576955190648466
+654,univers,False,195,market lead,0.38243115300703934
+655,document,False,196,languag,0.3404531074925266
+656,recommend,False,197,state_TAS,0.33356790992258945
+657,field_Design & Architecture,False,198,discuss,0.32863445429357974
+658,employment_type_Casual/Vacation,False,199,success candid,0.3237192287605509
+659,develop implement,False,200,today,0.3208860759493579
+660,perman,False,201,impact,0.3031024522655049
+661,date,False,202,region,0.270355721864332
+662,school,False,203,pleas click,0.2445719474944307
+663,vendor,False,204,pleas contact,0.2382196603528537
+664,languag,False,205,word,0.19844438754680604
+665,field_Construction,False,206,"field_Mining, Resources & Energy",0.16863826380858996
+666,leverag,False,207,enjoy,0.16454225443027135
+667,creativ,False,208,signific,0.15825426184737018
+668,whi,False,209,like,0.1482533356437939
+669,make,False,210,softwar,0.1471328873806097
+670,risk,False,211,involv,0.13995368551539916
+671,import,False,212,candid,0.13212094615953643
+672,initi,False,213,pleas,0.09954388303408661
+673,target,False,214,love,0.09277775171589892
+674,financi,False,215,forward,0.09031696096997917
+675,workplac,False,216,challeng,0.08181729915169687
+676,implement,False,217,innov,0.07713536125785023
+677,growth,False,218,java,0.07550513472749064
+678,technic,False,219,role pleas,0.07410243402854476
+679,requir,False,220,start,0.07302293735020549
+680,visualis,False,221,scale,0.05775987543580878
+681,ideal,False,222,bring,0.049514420487363896
+682,big,False,223,come,0.048689181323262005
+683,use,False,224,know,0.048179325165847595
+684,approach,False,225,submit,0.042345058626452256
+685,experienc,False,226,talent,0.03700372847696572
+686,field_Insurance & Superannuation,False,227,leader,0.03537427501347825
+687,teach,False,228,success applic,0.03252506711726653
+688,win,False,229,look,0.03242058922783534
+689,responsibilities,False,230,enabl,0.03183623666725983
+690,specif,False,231,join team,0.029481049562700493
+691,autom,False,232,onli,0.02601662429358556
+692,continu,False,233,energi,0.024413437308450418
+693,opportun work,False,234,thi role,0.02387419281916823
+694,flexibl work,False,235,transform,0.023395023930229242
+695,administr,False,236,thi,0.022924319647842903
+696,improv,False,237,com,0.02141705867026418
+697,written verbal,False,238,field_Government & Defence,0.02012824323750029
+698,2018,False,239,passion,0.007818144032006305
+699,account,False,240,plu,0.006171071475061772
+700,custom,False,241,include,0.005371272192612175
+701,firm,False,242,thi opportun,0.0025776419470413935
+702,field_Community Services & Development,False,243,success thi,0.001894976712547634
+703,effici,False,244,expect,0.0009804347421516347
+704,applic,False,245,becom,0.0

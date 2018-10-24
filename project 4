@@ -1,0 +1,30 @@
+Objective:
+1. What variable is the best predictor for salary?
+2. What variables can classify job titles?
+
+Note: 
+- Data related jobs
+- Limit search to a single region
+- Scrap from indeed.com
+
+
+Question 1:
+- Regression problem
+Consider:
+- NLP
+- PCA
+- Clustering
+- Ensemble method, try bagging, write my own vote-average
+
+BONUS PROBLEM
+Your boss would rather tell a client incorrectly that they would get a lower salary job than tell a client incorrectly that they would get a high salary job. Adjust one of your models to ease his mind, and explain what it is doing and any tradeoffs. Plot the ROC curve.
+
+Question 2:
+- Classification problem
+Consider:
+- What components of a job posting distinguish data scientists from other data jobs?
+- What features are important for distinguishing junior vs. senior positions?
+- Do the requirements for titles vary significantly with industry (e.g. healthcare vs. government)?
+
+
+Convert your executive summary into a public blog post of at least 500 words, in which you document your approach in a tutorial for other aspiring data scientists. Link to this in your notebook.
